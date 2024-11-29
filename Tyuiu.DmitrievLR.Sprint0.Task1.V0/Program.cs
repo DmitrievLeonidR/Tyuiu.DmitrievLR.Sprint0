@@ -6,7 +6,7 @@
         {
             //11
             Console.WriteLine("Hello, World!");
-            
+             
             string name = "Леонид";
             int age = 21;
 
