@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{F120265B-D8D7-4399-907B-BDB733DBB3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DmitrievLR.Sprint0.Task0.V0", "Tyuiu.DmitrievLR.Sprint0.Task0.V0\Tyuiu.DmitrievLR.Sprint0.Task0.V0.csproj", "{F6F9EB8A-94A5-4A5D-8D58-96FDFE26936F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{99CB66E4-9FD9-4220-8838-A10F1DFCCE1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.DmitrievLR.Sprint0.Task1.V0", "Tyuiu.DmitrievLR.Sprint0.Task1.V0\Tyuiu.DmitrievLR.Sprint0.Task1.V0.csproj", "{50097D51-A6C5-401E-972F-1FCE7C4E3D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F9EB8A-94A5-4A5D-8D58-96FDFE26936F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F9EB8A-94A5-4A5D-8D58-96FDFE26936F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F9EB8A-94A5-4A5D-8D58-96FDFE26936F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F9EB8A-94A5-4A5D-8D58-96FDFE26936F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50097D51-A6C5-401E-972F-1FCE7C4E3D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50097D51-A6C5-401E-972F-1FCE7C4E3D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50097D51-A6C5-401E-972F-1FCE7C4E3D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50097D51-A6C5-401E-972F-1FCE7C4E3D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F6F9EB8A-94A5-4A5D-8D58-96FDFE26936F} = {F120265B-D8D7-4399-907B-BDB733DBB3BB}
+		{50097D51-A6C5-401E-972F-1FCE7C4E3D14} = {99CB66E4-9FD9-4220-8838-A10F1DFCCE1D}
+	EndGlobalSection
+EndGlobal
